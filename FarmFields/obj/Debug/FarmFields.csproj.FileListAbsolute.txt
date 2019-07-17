@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\FarmFields\FarmFields\obj\Debug\FarmFields.csprojAssemblyReference.cache
+C:\Users\home\source\repos\FarmFields\FarmFields\obj\Debug\FarmFields.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\FarmFields\FarmFields\bin\Debug\FarmFields.exe.config
+C:\Users\home\source\repos\FarmFields\FarmFields\bin\Debug\FarmFields.exe
+C:\Users\home\source\repos\FarmFields\FarmFields\bin\Debug\FarmFields.pdb
+C:\Users\home\source\repos\FarmFields\FarmFields\obj\Debug\FarmFields.exe
+C:\Users\home\source\repos\FarmFields\FarmFields\obj\Debug\FarmFields.pdb
